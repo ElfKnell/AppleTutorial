@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  AppleTutorial
+//  WatchLandmarks Watch App
 //
-//  Created by Andrii Kyrychenko on 21/11/2022.
+//  Created by Andrii Kyrychenko on 04/12/2022.
 //
 
 import SwiftUI
